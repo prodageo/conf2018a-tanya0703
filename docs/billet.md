@@ -10,13 +10,10 @@
  - Conférencier :
    - Gautier Mechling (https://twitter.com/Nilhcem : Twitter, https://github.com/Nilhcem : GitHub)
  - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](cloudIotCoreLogo.png)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+ - URL de l'illustration : ![Cloud IoT Core Logo](cloudIotCoreLogo.png)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
- - Plan du support :
+ - Plan du support : Démo
 
 ## Résumé
 ...
