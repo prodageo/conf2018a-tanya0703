@@ -10,7 +10,7 @@
  - Conférencier :
    - Gautier Mechling (https://twitter.com/Nilhcem : Twitter, https://github.com/Nilhcem : GitHub)
  - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
+ - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](googleIotCore.jpg)
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
