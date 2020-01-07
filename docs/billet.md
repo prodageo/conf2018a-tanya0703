@@ -9,7 +9,7 @@
  - Durée de la conférence : 1h
  - Conférencier :
    - Gautier Mechling (https://twitter.com/Nilhcem : Twitter, https://github.com/Nilhcem : GitHub)
- - Mots-clés
+ - Mots-clés : Google Cloud, Cloud IoT Core, Demo, Prototypage, MQTT, Arduino, CArduino, Capteur de température, Capteur de humidité, Site statique
  - URL de l'illustration : ![Cloud IoT Core Logo](cloudIotCoreLogo.png)
 
 ## Support
@@ -21,4 +21,4 @@ La conférence a été constituée par un démo dont le but était de récupére
 
 
 ## Architecture et facteur qualité
-...
+
